@@ -4,11 +4,10 @@ jobs:
   table:
     runs-on: ubuntu-latest
     name: Update README from json data
-    if: github.repository_owner == 'EddieHubCommunity'
     steps:
       - uses: actions/checkout@v2
       - name: Read/Write data into README
-        uses: eddiejaoudecommunity/gh-actions-html-table-generator@v0.1
+        uses: Panquesito7/gh-actions-html-table-generator@v0.1
         with:
           json-file-path: "data.json"
           github-token: ${{ secrets.GITHUB_TOKEN }}
