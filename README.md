@@ -5,7 +5,7 @@
 List of GitHub profiles that have awesome customisation, that you can use for inspiration.\
 Feel free to submit a pull request with your suggestions of awesome GitHub profiles.
 
-## To add your github profile
+## How can I add my GitHub profile?
 
 1. Create an issue, with the title as your name, and in the description put a screenshot of the customised GitHub profile page (copy the generated image URL, this will be needed in the next step)
 
@@ -13,7 +13,7 @@ Feel free to submit a pull request with your suggestions of awesome GitHub profi
 
 3. In the `data.json` file, add your own object to the end of the file. Your entry should be similar to this example:
 
-```typescript
+```json
 {
     "name": "Eddie Jaoude",
     "githubUsername": "eddiejaoude",
