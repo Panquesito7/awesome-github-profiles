@@ -1,15 +1,15 @@
 [
   {
-    "name": "David Leal",
-    "githubUsername": "Panquesito7",
-    "imageUrl": "https://user-images.githubusercontent.com/51391473/120854354-a57edc00-c542-11eb-910a-6dab08382357.png",
-    "issueNumber": 550
-  },
-  {
     "name": "Savio Martin",
     "githubUsername": "saviomartin",
     "imageUrl": "https://user-images.githubusercontent.com/45217974/104979077-b3a0e580-5a03-11eb-892f-8eaa3b8bb214.png",
     "issueNumber": 98
+  },
+  {
+    "name": "David Leal",
+    "githubUsername": "Panquesito7",
+    "imageUrl": "https://user-images.githubusercontent.com/51391473/120854354-a57edc00-c542-11eb-910a-6dab08382357.png",
+    "issueNumber": 550
   },
   {
     "name": "Akas Rai",
