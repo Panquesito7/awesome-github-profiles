@@ -1,5 +1,5 @@
 Here you can see all the awesome profiles added by the community to use for inspiration.\
-**Wanna add your profile to the list? Follow the steps mentioned [here](https://panquesito7.github.io/awesome-github-profiles/).
+**Wanna add your profile to the list? Follow the steps mentioned [here](https://panquesito7.github.io/awesome-github-profiles/).**
 
 <!-- DO NOT EDIT THIS SECTION -->
 <!--START_SECTION:data-section-->
