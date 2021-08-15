@@ -1,5 +1,5 @@
 ---
-title: EddieHub - Awesome GitHub profiles
+title: EddieHub
 ---
 
 # Check out all the amazing profiles [here](/profiles)!
