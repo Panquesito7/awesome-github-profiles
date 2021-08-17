@@ -12,6 +12,6 @@ jobs:
           json-file-path: "data.json"
           github-token: ${{ secrets.GITHUB_TOKEN }}
           columns: 3
-          file-to-use: "profiles.md"
+          file-to-use: "test.md"
           object-field-names: '[ "githubUsername", "name", "imageUrl", "issueNumber" ]'
           html-cell: '<td align="center"><p><a href="https://github.com/{{ githubUsername }}">{{ name }}</a></p><img src="{{ imageUrl }}" /><p><a href="https://github.com/EddieHubCommunity/awesome-github-profiles/issues/{{ issueNumber }}">(💯 give your vote)</a></p></td>'
